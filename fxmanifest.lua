@@ -1,7 +1,7 @@
-fx_version 'cerulean'
+fx_version 'adamant'
 game 'gta5'
-description 'Police helicopter spawn marker that only police can acess' -- DO NOT CHANGE THIS (Give me some credit 😀)
 
-client_scripts {
-    'cl_helicoptermarker.lua'
-} 
+author '2zVanish'
+description 'Police helicopter spawn location that only police can access'
+
+client_script 'cl_helicoptermarker.lua'
